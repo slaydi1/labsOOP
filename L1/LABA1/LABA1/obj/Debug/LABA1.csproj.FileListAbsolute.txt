@@ -1,0 +1,8 @@
+D:\progects\LABA1\LABA1\obj\Debug\LABA1.csproj.AssemblyReference.cache
+D:\progects\LABA1\LABA1\obj\Debug\LABA1.csproj.SuggestedBindingRedirects.cache
+D:\progects\LABA1\LABA1\obj\Debug\LABA1.csproj.CoreCompileInputs.cache
+D:\progects\LABA1\LABA1\bin\Debug\LABA1.exe.config
+D:\progects\LABA1\LABA1\bin\Debug\LABA1.exe
+D:\progects\LABA1\LABA1\bin\Debug\LABA1.pdb
+D:\progects\LABA1\LABA1\obj\Debug\LABA1.exe
+D:\progects\LABA1\LABA1\obj\Debug\LABA1.pdb
